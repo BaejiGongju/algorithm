@@ -6,5 +6,5 @@ function solution(x) {
     sum += Number(arr[i]);
   }
 
-  return x % sum == 0 ? true : false;
+  return x % sum == 0 
 }
